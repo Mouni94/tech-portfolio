@@ -70,6 +70,7 @@ const siteConfig = {
         linkedin: 'mouni94',
         twitter: '',
         github: 'Mouni94',
+        instagram: 'Mounika_Vanka',
     },
 
     // You may provide arbitrary config keys to be used as needed by your
