@@ -1,9 +1,9 @@
 ---
 id: about
-title: About
+title: Hi! I am Mounika Vanka
 ---
 
-I am Mounika Vanka and I am currently working as a Researcher at Lenovo Research. I get the opportunity to work on the most interesting and state of the art prototypes and ideas in the field of Augmented Reality, Machine Learning, Voice Recognition, and Natural Language Processing to name a few. Every day at my job is a new challenge, to learn new technologies and concepts, and this provides the opportunity to make mistakes, learn and grow. 
+I am currently working as a Researcher at Lenovo Research. I get the opportunity to work on the most interesting and state of the art prototypes and ideas in the field of Augmented Reality, Machine Learning, Voice Recognition, and Natural Language Processing to name a few. Every day at my job is a new challenge, to learn new technologies and concepts, and this provides the opportunity to make mistakes, learn and grow. 
 
 I am a Biomedical Engineer by Profession and graduated from Duke in 2018. Yes, I am a huge Basketball Fan and ardently support Duke during March Madness. I did my Undergrad in Biomedical as well from India and for some time at Adelaide, Australia. 
 
