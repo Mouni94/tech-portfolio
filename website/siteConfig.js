@@ -33,6 +33,7 @@ const siteConfig = {
         { doc: "about", label: "About" },
         { doc: "projects", label: "Projects" },
         { doc: "resume", label: "Resume" },
+        { doc: "artwork", label: "Artwork"},
     ],
 
     // If you have users set above, you add it here:
