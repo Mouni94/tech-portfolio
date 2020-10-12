@@ -19,7 +19,9 @@ Researcher @Lenovo
 ## Previous Roles
 
 Software Engineer Intern @Fujifilm Medical Systems
+
 Intern @Ampel Biosolutions,LLC
+
 R & D Intern @Cook Medical
 
 ## Recognition and Awards
