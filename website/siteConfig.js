@@ -39,7 +39,7 @@ const siteConfig = {
     // If you have users set above, you add it here:
     users,
 
-    favicon: 'img/favicon.ico',
+    favicon: 'img/LenovoHeadshotIcon.ico',
 
     /* Colors for website */
     colors: {
