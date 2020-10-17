@@ -12,8 +12,7 @@ Winston Churchill once said, “We make a living by what we get, but we make a l
 During my free time, I love doing Escape Rooms. I feel they challenge you and always push you to do your best while being fun at the same time. I also paint, and love being outdoors and playing sports, tennis being my favorite. I also love travelling and have been fortunate enough to get the opportunity to travel to three different continents and still counting.
 
 
-## Current Role
-Researcher @Lenovo
+## Current Role - Researcher @Lenovo
 
 ## Previous Roles
 
