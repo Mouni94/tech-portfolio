@@ -12,7 +12,8 @@
 const users = [];
 
 const siteConfig = {
-    title: 'Hey!I am Mounika Vanka', // Title for your website.
+    openingLine: 'Hey! I am Mounika Vanka',
+    title: 'Mounika Vanka', // Title for your website.
     tagline: 'Positivity is contagious, and so is a smile!',
     profilePhoto: 'img/Headshot.jpg',
     url: 'https://Mouni94.github.io', // Your website URL
