@@ -23,6 +23,8 @@
     max-height: 25%;
     margin-right: auto;
     margin-left: auto;
+    background-color: red;
+    transition: background-color 2s ease-in;
     animation: fadein 2s;
     -moz-animation: fadein 2s; /* Firefox */
     -webkit-animation: fadein 2s; /* Safari and Chrome */
