@@ -13,7 +13,7 @@ During my free time, I love doing Escape Rooms. I feel they challenge you and al
 
 
 ## Current Role 
-  Researcher @Lenovo
+### Researcher @Lenovo
 
 ## Previous Roles
 
