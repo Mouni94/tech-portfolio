@@ -19,8 +19,10 @@
 @media only screen and (min-width: 1500px) {}
 
 .inner {
-    max-width: 100%;
+    max-width: 50%;
     max-height: 25%;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 .nav-footer .social {
