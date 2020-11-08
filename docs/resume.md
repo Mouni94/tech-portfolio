@@ -3,5 +3,4 @@ id: resume
 title: Resume
 ---
 
-Hi! This is my resume section. 
-You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
+[Mounika Vanka Resume](https://drive.google.com/file/d/1UldPXRzom0RELNtr0hwqPk_Jq_siMXPR/view?usp=sharing)
