@@ -63,6 +63,9 @@ const siteConfig = {
     onPageNav: 'separate',
     // No .html extensions for paths.
     cleanUrl: true,
+    
+    // Expand /Collapse the side nav bars
+    docsSideNavCollapsible: true,
 
     // Show documentation's last update time.
     enableUpdateTime: true,
