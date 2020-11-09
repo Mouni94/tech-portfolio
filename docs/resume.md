@@ -35,7 +35,8 @@ title: Resume
 - Bachelor of Engineering in Biomedical Engineering CGPA: 3.82/4 Graduation - May 2016
 - Best Outgoing Student
 - Top 3% in class
-### Flinders University, Australia CGPA: 6.27/7 Semester Exchange Program
+### Flinders University, Australia 
+- CGPA: 6.27/7 Semester Exchange Program
 ---------------------------------------------------------------------------------
 ## COURSE HIGHLIGHTS
 - Product Design and Development, Biomedical Signal Processing, Computer Vision, Biostatistics, Computer Algorithms, Management in High Tech Industries, Physiology and Anatomy
