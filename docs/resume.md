@@ -16,14 +16,12 @@ title: Resume
 ### Research and Development Intern, Cook Medical, Winston-Salem May 2017- August 2017
 - Worked on Risk Evaluation and assessment of manufacturing processes for the Cholangioscope.
 - Developed Implementation plan and process validation documents for the endoscopic device and improved the efficiency of manufacturing practices in production by 10%.
-
 ---------------------------------------------------------------------------------
 ## Technical Skills
 ### Courses :
 - Design Thinking in 3 Steps, Machine Learning, Computer Vision, Medical Device Design.
 ### Languages :
 - C#, Visual Studio, Git Version Control, JIRA, Source Tree, C++, LabView, MS Office, Arduino.
-
 ---------------------------------------------------------------------------------
 ## EDUCATION
 ### Duke University, USA
@@ -41,10 +39,13 @@ title: Resume
 ---------------------------------------------------------------------------------
 ## COURSE HIGHLIGHTS
 - Product Design and Development, Biomedical Signal Processing, Computer Vision, Biostatistics, Computer Algorithms, Management in High Tech Industries, Physiology and Anatomy
-
 ---------------------------------------------------------------------------------
 ## LEADERSHIP AND ACTIVITIES
 - Culture Model Award, Lenovo 2020
-
 ---------------------------------------------------------------------------------
+## CERTIFICATIONS
+- Design Thinking in 3 Steps - Udemy
+- How to be a Human Lie Detector - Udemy
+- Machine Learning - Coursera
+----------------------------------------------------------------------------------
 [Download Resume](https://drive.google.com/file/d/1tbYjliMxA1OR8Vz9l-0J67SDfYdCe9dL/view?usp=sharing)
