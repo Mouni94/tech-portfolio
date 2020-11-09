@@ -18,9 +18,9 @@ title: Resume
 - Developed Implementation plan and process validation documents for the endoscopic device and improved the efficiency of manufacturing practices in production by 10%.
 ---------------------------------------------------------------------------------
 ## Technical Skills
-### Courses :
+### Courses 
 - Design Thinking in 3 Steps, Machine Learning, Computer Vision, Medical Device Design.
-### Languages :
+### Languages 
 - C#, Visual Studio, Git Version Control, JIRA, Source Tree, C++, LabView, MS Office, Arduino.
 ---------------------------------------------------------------------------------
 ## EDUCATION
