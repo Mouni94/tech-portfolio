@@ -1,6 +1,7 @@
 ---
 id: resume
 title: Resume
+---
 ## Research Experience
 ### Researcher (User Experience), Lenovo Research July 2020 - Present
 - Led the creation, development, and execution of user studies and user testing with 300+ users to gather and analyze feedback on the Lenovo Voice Assistant (Voice Assistant on PC).
