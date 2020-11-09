@@ -3,7 +3,7 @@ id: resume
 title: Resume
 ---
 ---------------------------------------------------------------------------------
-## Research Experience
+## RESEARCH EXPERIENCE
 ### Researcher (User Experience), Lenovo Research July 2020 - Present
 - Led the creation, development, and execution of user studies and user testing with 300+ users to gather and analyze feedback on the Lenovo Voice Assistant (Voice Assistant on PC).
 - Followed through the results, to isolate and solve 15+ bugs in the existing version of the product.
@@ -18,7 +18,7 @@ title: Resume
 - Developed Implementation plan and process validation documents for the endoscopic device and improved the efficiency of manufacturing practices in production by 10%.
 
 ---------------------------------------------------------------------------------
-## TECHNICAL SKILLS
+## Technical Skills
 ### Courses :
 - Design Thinking in 3 Steps, Machine Learning, Computer Vision, Medical Device Design.
 ### Languages :
