@@ -2,4 +2,6 @@
 id: artwork
 title: Artwork
 ---
-This is where all the artwork I do will go
+![Add alternate text for image](./assets/paintingbutterfly.jpg)
+![Add alternate text for image](./assets/sky.jpg)
+![Add alternate text for image](./assets/winebottle.jpg)
